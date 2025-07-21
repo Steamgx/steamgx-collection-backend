@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Blue Dress",
+    "description": "A stylish blue dress perfect for any occasion.",
+    "price": 2500,
+    "category": "Dress",
+    "image": "https://via.placeholder.com/200x200/2563eb/ffffff?text=Blue+Dress"
+  },
+  {
+    "id": 2,
+    "name": "Classic Handbag",
+    "description": "Spacious and elegant handbag for daily use.",
+    "price": 1800,
+    "category": "Handbag",
+    "image": "https://via.placeholder.com/200x200/dbeafe/1e3a8a?text=Handbag"
+  },
+  {
+    "id": 3,
+    "name": "Trendy White Sneakers",
+    "description": "Comfortable sneakers for a modern look.",
+    "price": 3200,
+    "category": "Shoes",
+    "image": "https://via.placeholder.com/200x200/ffffff/2563eb?text=Sneakers"
+  }
+] 
